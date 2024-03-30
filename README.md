@@ -4,6 +4,7 @@ brainfuck interpreter written in Rust.
 ## Usage
 ### Build And Run
 ```bash
+$ cd interpreter
 $ cargo build
 $ cargo run
 ```
